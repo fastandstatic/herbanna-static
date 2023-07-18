@@ -3,7 +3,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('./../../2023/02/Silk-Regular.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/02/Silk-Regular.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */@font-face {
@@ -11,20 +11,20 @@
 	font-style: normal;
 	font-weight: 100;
 	font-display: auto;
-	src: url('./../../2023/02/BS-light.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/02/BS-light.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Basic Sans';
 	font-style: normal;
 	font-weight: 500;
 	font-display: auto;
-	src: url('./../../2023/02/BS-SemiBold.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/02/BS-SemiBold.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Basic Sans';
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('./../../2023/02/Basic-Sans-SF.ttf') format('truetype');
+	src: url('/wp-content/uploads/2023/02/Basic-Sans-SF.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
