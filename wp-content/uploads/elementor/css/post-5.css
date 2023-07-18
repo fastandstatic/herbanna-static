@@ -1,0 +1,30 @@
+.elementor-kit-5{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-5a6fd78:#567407;--e-global-color-36b4afa:#FAEBCC;--e-global-color-87fd77d:#506E00;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-f13b984-font-family:"Slik";--e-global-typography-f13b984-font-size:70px;--e-global-typography-f13b984-font-weight:700;--e-global-typography-c08d4e4-font-family:"Basic Sans";--e-global-typography-c08d4e4-font-size:30px;--e-global-typography-c08d4e4-font-weight:100;--e-global-typography-c08d4e4-line-height:35px;--e-preloader-animation-duration:1500ms;--e-preloader-delay:80ms;--e-preloader-color:var( --e-global-color-5a6fd78 );--e-preloader-size:30px;--e-preloader-rotate:0deg;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:var( --e-global-color-36b4afa );}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Slik';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/02/Silk-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Basic Sans';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/02/BS-light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Basic Sans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/02/BS-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Basic Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/02/Basic-Sans-SF.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
